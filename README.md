@@ -1,2 +1,28 @@
-# WorldHappinessReport
-This is an overview of my analysis of the World Happiness Report.
+<h1>The World Happiness Report</h1>
+
+<h2>ℹ️ Information About the Study</h2>
+<h3>Dataset and Project Information</h3>
+
+Original Dataset Link: <a href = "https://www.kaggle.com/code/mayzannilarthein44/world-happiness-report-data-cleaning">Women's Educational Attainment vs Fertility</a>
+
+Software/Tools Being Used:
+- Python (Pandas)
+- PowerBI
+
+<h2>🔍 The Process</h2>
+<b>PowerBI Dashboard:</b> <a href="https://app.powerbi.com/view?r=eyJrIjoiNTcyYjY4Y2ItMDgzMS00MjAwLWEyMjYtNzhhYWIzNDdkZjE1IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9&pageName=ReportSectionc1b182ee40bc969bbaba">The World Happiness Report (Power BI)</a>
+<h3>Obtaining and Cleaning the Data</h3>
+
+To start my analysis, I obtained a World Happiness Report dataset from <a href="https://www.kaggle.com/code/mayzannilarthein44/world-happiness-report-data-cleaning">Kaggle</a> which had already undergone some data cleaning. However, I decided to further refine the data by developing a <a href="">Python script</a> that leverages pandas to analyze each year and column, and rank each country according to its position in that year and column. With the data now clean and ranked, I moved on to creating an intuitive Power BI dashboard to visually represent my findings.
+
+<h3>Power BI Report Creation</h3>
+
+For my report, I carefully crafted three pages that each offer a unique perspective on the data. The first page provides a year-by-year breakdown of the world's happiest country, while the second page displays a happiness report map that showcases the happiness levels of different countries. The third page allows users to compare countries and explore the data in greater detail.
+
+To make the report dynamic, I used various DAX measures that allow for the title to change based on the year and country selected by the user. Additionally, I imported a custom .json map that enhances the report's aesthetics, automatically zooming in on the country selected and displaying a tooltip of relevant information.
+
+In order to ensure consistency across all pages, I connected all slicers so that any changes made by the user are properly reflected on each page. Lastly, I added flags from an image URL website to provide users with even more information about each country. This was achieved by using Power Query to automatically add a prefix and suffix to each row.
+
+Overall, this project was an incredibly enriching learning experience. Please refer to the images below for a closer look at the Power BI report.
+
+<h3>Power BI Report Images</h3>
