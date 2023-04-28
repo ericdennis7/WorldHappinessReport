@@ -13,7 +13,7 @@ Software/Tools Being Used:
 <b>PowerBI Dashboard:</b> <a href="https://app.powerbi.com/view?r=eyJrIjoiNTcyYjY4Y2ItMDgzMS00MjAwLWEyMjYtNzhhYWIzNDdkZjE1IiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9&pageName=ReportSectionc1b182ee40bc969bbaba">The World Happiness Report (Power BI)</a>
 <h3>Obtaining and Cleaning the Data</h3>
 
-To start my analysis, I obtained a World Happiness Report dataset from <a href="https://www.kaggle.com/code/mayzannilarthein44/world-happiness-report-data-cleaning">Kaggle</a> which had already undergone some data cleaning. However, I decided to further refine the data by developing a <a href="">Python script</a> that leverages pandas to analyze each year and column, and rank each country according to its position in that year and column. With the data now clean and ranked, I moved on to creating an intuitive Power BI dashboard to visually represent my findings.
+To start my analysis, I obtained a World Happiness Report dataset from <a href="https://www.kaggle.com/code/mayzannilarthein44/world-happiness-report-data-cleaning">Kaggle</a> which had already undergone some data cleaning. However, I decided to further refine the data by developing a <a href="HappinessReportDataCleaning.py">Python script</a> that leverages pandas to analyze each year and column, and rank each country according to its position in that year and column. With the data now clean and ranked, I moved on to creating an intuitive Power BI dashboard to visually represent my findings.
 
 <h3>Power BI Report Creation</h3>
 
@@ -26,3 +26,6 @@ In order to ensure consistency across all pages, I connected all slicers so that
 Overall, this project was an incredibly enriching learning experience. Please refer to the images below for a closer look at the Power BI report.
 
 <h3>Power BI Report Images</h3>
+
+World Happiness Report: Happiest Country Per Year
+
