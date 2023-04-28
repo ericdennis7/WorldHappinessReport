@@ -31,6 +31,10 @@ World Happiness Report: Happiest Country Per Year:
 
 ![Happiest Country Per Year](https://user-images.githubusercontent.com/130507070/235213154-d88a9c24-a7c6-49e3-b454-c5ab8bd95b36.png)
 
-World Happiness Report: World Map Overview
+World Happiness Report: World Map Overview:
 
 ![World Map Overview](https://user-images.githubusercontent.com/130507070/235213371-ab3b06f3-6fb4-4fc9-b990-1f53353a192e.png)
+
+World Happiness Report: Country vs. Country:
+
+![Country vs  Country](https://user-images.githubusercontent.com/130507070/235213620-ec24152d-1391-45de-8b9a-8c9c287575ff.png)
