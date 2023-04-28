@@ -27,5 +27,10 @@ Overall, this project was an incredibly enriching learning experience. Please re
 
 <h3>Power BI Report Images</h3>
 
-World Happiness Report: Happiest Country Per Year
+World Happiness Report: Happiest Country Per Year:
+
+![Happiest Country Per Year](https://user-images.githubusercontent.com/130507070/235213154-d88a9c24-a7c6-49e3-b454-c5ab8bd95b36.png)
+
+World Happiness Report: World Map Overview
+
 
