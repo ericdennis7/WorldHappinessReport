@@ -39,7 +39,7 @@ World Happiness Report: Country vs. Country:
 
 ![Country vs  Country](https://user-images.githubusercontent.com/130507070/235213620-ec24152d-1391-45de-8b9a-8c9c287575ff.png)
 
-<h2>Contact Information</h2>
+<h2>📱 Contact Information</h2>
 
 <b>LinkedIn Profile:</b> <a href="https://www.linkedin.com/in/ericdennis7/">ericdennis7</a>
 
