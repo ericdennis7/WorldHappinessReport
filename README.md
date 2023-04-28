@@ -25,7 +25,9 @@ In order to ensure consistency across all pages, I connected all slicers so that
 
 Overall, this project was an incredibly enriching learning experience. Please refer to the images below for a closer look at the Power BI report.
 
-<h3>According to the data, Finland is the happiest country in the world and has been for the previous 4 years in a row (2018-2021).</h3>
+<h3>Conclusion</h3>
+
+According to the data, Finland is the happiest country in the world and has been for the previous 4 years in a row (2018-2021).
 
 <h3>Power BI Report Images</h3>
 
